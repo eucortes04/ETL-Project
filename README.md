@@ -1,8 +1,8 @@
 # ETL-Project
 
 ## ATTN for use: 
-  -IMDB csv file in resources was too large for a standard github upload and had to be compressed. Please expand for proper functionality
-  -In first cell of ETL.ipynb be sure to change server information (username, password, database name) to match local postgres setup
+  * IMDB csv file in resources was too large for a standard github upload and had to be compressed. Please expand for proper functionality
+  * In first cell of ETL.ipynb be sure to change server information (username, password, database name) to match local postgres setup
   
 ### Extract:
   For this project I chose to use 2 CSV files found on kaggle.com related to movies. One showcasing the netflix media catalog offering while the other contained IMBD media information. Both sources could be loaded into a jupyter notebook using the read_csv offered by Pandas
