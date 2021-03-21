@@ -1,6 +1,9 @@
 # ETL-Project
 
 ## ATTN for use: 
+  * ETL.ipynb contains the ETL proccess
+  * query.sql contains database table creations and SQL manipulation
+  * Resources contains data files
   * IMDB csv file in resources was too large for a standard github upload and had to be compressed. Please expand for proper functionality
   * In first cell of ETL.ipynb be sure to change server information (username, password, database name) to match local postgres setup
   
